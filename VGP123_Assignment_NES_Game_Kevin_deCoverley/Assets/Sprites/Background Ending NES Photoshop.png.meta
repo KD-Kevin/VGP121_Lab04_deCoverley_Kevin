@@ -1,0 +1,942 @@
+fileFormatVersion: 2
+guid: e91b19290af6fbf46853ebfdb0f084b7
+timeCreated: 1518211167
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Background Ending 1
+    21300002: Background Ending 2
+    21300004: Background Ending 3
+    21300006: Background Ending 4
+    21300008: Background Ending 5
+    21300010: Background Ending Edge
+    21300012: Background Ending Hill
+    21300014: Background Ending Traingle 2
+    21300016: Background Ending Cloud
+    21300018: Background Ending Hill 3
+    21300020: Background Ending Hill 2
+    21300022: Background Ending Triangle
+    21300024: Background Ending NES Photoshop_12
+    21300026: Background Ending NES Photoshop_13
+    21300028: Background Ending NES Photoshop_14
+    21300030: Background Ending NES Photoshop_15
+    21300032: Background Ending NES Photoshop_16
+    21300034: Background Ending Jigglypuff
+    21300036: Background Ending HUD
+    21300038: Background Ending Star
+    21300040: Background Ending Flower
+    21300042: Background Ending Mushroom
+    21300044: Background Ending NES Photoshop_22
+    21300046: Background Ending NES Photoshop_23
+    21300048: Background Ending NES Photoshop_24
+    21300050: Background Ending NES Photoshop_25
+    21300052: Background Ending NES Photoshop_26
+    21300054: Background Ending Star Block
+    21300056: Background Ending Flower Block
+    21300058: Background Ending Mushroom Block
+    21300060: Background Ending NES Photoshop_30
+    21300062: Background Ending NES Photoshop_31
+    21300064: Background Ending NES Photoshop_32
+    21300066: Background Ending NES Photoshop_33
+    21300068: Background Ending NES Photoshop_34
+    21300070: Background Ending NES Photoshop_35
+    21300072: Background Ending NES Photoshop_36
+    21300074: Background Ending NES Photoshop_37
+    21300076: Background Ending NES Photoshop_38
+    21300078: Background Ending NES Photoshop_39
+    21300080: Background Ending NES Photoshop_40
+    21300082: Background Ending NES Photoshop_41
+    21300084: Background Ending NES Photoshop_42
+    21300086: Background Ending NES Photoshop_43
+    21300088: Background Ending NES Photoshop_44
+    21300090: Background Ending NES Photoshop_45
+    21300092: Background Ending NES Photoshop_46
+    21300094: Background Ending NES Photoshop_47
+    21300096: Background Ending NES Photoshop_48
+    21300098: Background Ending NES Photoshop_49
+    21300100: Background Ending NES Photoshop_50
+    21300102: Background Ending NES Photoshop_51
+    21300104: Background Ending NES Photoshop_52
+    21300106: Background Ending NES Photoshop_53
+    21300108: Background Ending NES Photoshop_54
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Background Ending 1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 638
+        width: 633
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending 2
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 638
+        width: 633
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending 3
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 638
+        width: 633
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending 4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 199
+        width: 633
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending 5
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 199
+        width: 633
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending Edge
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 199
+        width: 224
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending Hill
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 541
+        width: 82
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending Traingle 2
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 590
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending Cloud
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 546
+        width: 82
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending Hill 3
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 462
+        width: 123
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending Hill 2
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 440
+        width: 123
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending Triangle
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 462
+        width: 81
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_12
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 442
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_13
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 444
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_14
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 389
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_15
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 222
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_16
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 222
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending Jigglypuff
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 220
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending HUD
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 5
+        width: 633
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending Star
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 145
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending Flower
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 145
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending Mushroom
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 145
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_22
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 145
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_23
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 145
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_24
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 145
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_25
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 145
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_26
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 145
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending Star Block
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 129
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending Flower Block
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 128
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending Mushroom Block
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 128
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_30
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 87
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_31
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 84
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_32
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 87
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_33
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 84
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_34
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 82
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_35
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 84
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_36
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 8
+        width: 56
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_37
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 90
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_38
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 89
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_39
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 99
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_40
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 99
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_41
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 99
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_42
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 33
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_43
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 33
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_44
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 33
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_45
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 8
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_46
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 8
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_47
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 8
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_48
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 8
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_49
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 53
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_50
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 53
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_51
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 54
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_52
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 8
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_53
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 8
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Background Ending NES Photoshop_54
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 8
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

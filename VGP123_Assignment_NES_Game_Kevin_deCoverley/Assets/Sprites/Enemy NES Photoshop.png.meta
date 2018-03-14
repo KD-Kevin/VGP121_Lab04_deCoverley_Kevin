@@ -1,0 +1,2997 @@
+fileFormatVersion: 2
+guid: 10ca4d2653f0b994d9a3562861b7dc21
+timeCreated: 1518212361
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Goomba Walkling 1
+    21300002: Goomba Walking 2
+    21300004: Goomba Squished
+    21300006: Goomba Winged Walking 1
+    21300008: Goomba Winged Walking 2
+    21300010: Goomba Winged Flying 1
+    21300012: Goomba Winged Flying 2
+    21300014: Mini Goomba 1
+    21300016: Mini Goomba 2
+    21300018: Red Winged Goomba
+    21300020: Block Monster 1
+    21300022: Block Monster 2
+    21300024: Block Monster 3
+    21300026: Block Monster 14
+    21300028: Big Goomba Walking 1
+    21300030: Big Goomba Walking 2
+    21300032: Big Goomba Squished
+    21300034: Boot Monster 1
+    21300036: Boot Monster 2
+    21300038: Boot Monster 3
+    21300040: Boot Monster 4
+    21300042: Boot Monster 5
+    21300044: Boot Monster 6
+    21300046: Big Red Perahna Plant Up Open
+    21300048: Big Red Perahna Plant Up Closed
+    21300050: Black Ball
+    21300052: Red Perahna Plant 1
+    21300054: Red Perahna Plant 2
+    21300056: Green Perahna Plant
+    21300058: Red Perahna Plant Up Open
+    21300060: Red Perahna Plant Up Closed
+    21300062: Green Perahna Plant Up Open
+    21300064: Small Red Perahna Plant Up Open 1
+    21300066: Small Red Perahna Plant Up Open 2
+    21300068: Small Red Perahna Plant Up Closed 1
+    21300070: Enemy NES Photoshop_35
+    21300072: Koopa Walking 1 Red
+    21300074: Koopa Walking 2 Red
+    21300076: Koopa Shell Red
+    21300078: Koopa Shell Getting Up Red
+    21300080: Koopa Shell Green Winged 1
+    21300082: Koopa Shell Green Winged 2
+    21300084: Koopa Shell Green Flying 1
+    21300086: Koopa Shell Green Flying 2
+    21300088: Koopa Walking 1 Red Big
+    21300090: Koopa Walking 2 Red Big
+    21300092: Koopa Shell Red Big
+    21300094: Koopa Shell Green Flying Big
+    21300096: Boomerang Koopa 1 withB Green
+    21300098: Boomerang Koopa 2 withB Green
+    21300100: Boomerang Koopa 1 withOutB Green
+    21300102: Boomerang Koopa 2 withOutB Green
+    21300104: Hammer Koopa 1 Small
+    21300106: Hammer Koopa 2 Small
+    21300108: Hammer Koopa 1 Small Red Without
+    21300110: Hammer Koopa 1 Without
+    21300112: Hammer Koopa 2 Without
+    21300114: Hammer Koopa With
+    21300116: Boomerang 1
+    21300118: Boomerang 2
+    21300120: Boomerang 3
+    21300122: Boomerang 4
+    21300124: Hammer 1
+    21300126: Hammer 2
+    21300128: Hammer 3
+    21300130: Hammer 4
+    21300132: Hammer 5
+    21300134: Hammer 6
+    21300136: Hammer 7
+    21300138: Enemy NES Photoshop_69
+    21300140: Enemy NES Photoshop_70
+    21300142: Enemy NES Photoshop_71
+    21300144: Enemy NES Photoshop_72
+    21300146: Enemy NES Photoshop_73
+    21300148: Enemy NES Photoshop_74
+    21300150: Enemy NES Photoshop_75
+    21300152: Enemy NES Photoshop_76
+    21300154: Enemy NES Photoshop_77
+    21300156: Enemy NES Photoshop_78
+    21300158: Enemy NES Photoshop_79
+    21300160: Enemy NES Photoshop_80
+    21300162: Enemy NES Photoshop_81
+    21300164: Enemy NES Photoshop_82
+    21300166: Enemy NES Photoshop_83
+    21300168: Enemy NES Photoshop_84
+    21300170: Enemy NES Photoshop_85
+    21300172: Enemy NES Photoshop_86
+    21300174: Enemy NES Photoshop_87
+    21300176: Enemy NES Photoshop_88
+    21300178: Enemy NES Photoshop_89
+    21300180: Enemy NES Photoshop_90
+    21300182: Enemy NES Photoshop_91
+    21300184: Enemy NES Photoshop_92
+    21300186: Enemy NES Photoshop_93
+    21300188: Enemy NES Photoshop_94
+    21300190: Enemy NES Photoshop_95
+    21300192: Enemy NES Photoshop_96
+    21300194: Enemy NES Photoshop_97
+    21300196: Enemy NES Photoshop_98
+    21300198: Enemy NES Photoshop_99
+    21300200: Enemy NES Photoshop_100
+    21300202: Enemy NES Photoshop_101
+    21300204: Enemy NES Photoshop_102
+    21300206: Enemy NES Photoshop_103
+    21300208: Enemy NES Photoshop_104
+    21300210: Enemy NES Photoshop_105
+    21300212: Enemy NES Photoshop_106
+    21300214: Enemy NES Photoshop_107
+    21300216: Enemy NES Photoshop_108
+    21300218: Enemy NES Photoshop_109
+    21300220: Enemy NES Photoshop_110
+    21300222: Enemy NES Photoshop_111
+    21300224: Enemy NES Photoshop_112
+    21300226: Enemy NES Photoshop_113
+    21300228: Enemy NES Photoshop_114
+    21300230: Enemy NES Photoshop_115
+    21300232: Enemy NES Photoshop_116
+    21300234: Enemy NES Photoshop_117
+    21300236: Enemy NES Photoshop_118
+    21300238: Enemy NES Photoshop_119
+    21300240: Enemy NES Photoshop_120
+    21300242: Enemy NES Photoshop_121
+    21300244: Enemy NES Photoshop_122
+    21300246: Enemy NES Photoshop_123
+    21300248: Enemy NES Photoshop_124
+    21300250: Enemy NES Photoshop_125
+    21300252: Enemy NES Photoshop_126
+    21300254: Enemy NES Photoshop_127
+    21300256: Enemy NES Photoshop_128
+    21300258: Enemy NES Photoshop_129
+    21300260: Enemy NES Photoshop_130
+    21300262: Enemy NES Photoshop_131
+    21300264: Enemy NES Photoshop_132
+    21300266: Enemy NES Photoshop_133
+    21300268: Enemy NES Photoshop_134
+    21300270: Enemy NES Photoshop_135
+    21300272: Enemy NES Photoshop_136
+    21300274: Enemy NES Photoshop_137
+    21300276: Enemy NES Photoshop_138
+    21300278: Enemy NES Photoshop_139
+    21300280: Enemy NES Photoshop_140
+    21300282: Enemy NES Photoshop_141
+    21300284: Enemy NES Photoshop_142
+    21300286: Enemy NES Photoshop_143
+    21300288: Enemy NES Photoshop_144
+    21300290: Enemy NES Photoshop_145
+    21300292: Enemy NES Photoshop_146
+    21300294: Enemy NES Photoshop_147
+    21300296: Enemy NES Photoshop_148
+    21300298: Enemy NES Photoshop_149
+    21300300: Enemy NES Photoshop_150
+    21300302: Enemy NES Photoshop_151
+    21300304: Enemy NES Photoshop_152
+    21300306: Enemy NES Photoshop_153
+    21300308: Enemy NES Photoshop_154
+    21300310: Enemy NES Photoshop_155
+    21300312: Enemy NES Photoshop_156
+    21300314: Enemy NES Photoshop_157
+    21300316: Enemy NES Photoshop_158
+    21300318: Enemy NES Photoshop_159
+    21300320: Enemy NES Photoshop_160
+    21300322: Enemy NES Photoshop_161
+    21300324: Enemy NES Photoshop_162
+    21300326: Enemy NES Photoshop_163
+    21300328: Enemy NES Photoshop_164
+    21300330: Enemy NES Photoshop_165
+    21300332: Enemy NES Photoshop_166
+    21300334: Enemy NES Photoshop_167
+    21300336: Enemy NES Photoshop_168
+    21300338: Enemy NES Photoshop_169
+    21300340: Enemy NES Photoshop_170
+    21300342: Enemy NES Photoshop_171
+    21300344: Enemy NES Photoshop_172
+    21300346: Enemy NES Photoshop_173
+    21300348: Enemy NES Photoshop_174
+    21300350: Enemy NES Photoshop_175
+    21300352: Enemy NES Photoshop_176
+    21300354: Enemy NES Photoshop_177
+    21300356: Enemy NES Photoshop_178
+    21300358: Enemy NES Photoshop_179
+    21300360: Enemy NES Photoshop_180
+    21300362: Enemy NES Photoshop_181
+    21300364: Enemy NES Photoshop_182
+    21300366: Enemy NES Photoshop_183
+    21300368: Enemy NES Photoshop_184
+    21300370: Enemy NES Photoshop_185
+    21300372: Enemy NES Photoshop_186
+    21300374: Enemy NES Photoshop_187
+    21300376: Enemy NES Photoshop_188
+    21300378: Enemy NES Photoshop_189
+    21300380: Enemy NES Photoshop_0
+    21300382: Enemy NES Photoshop_1
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goomba Walkling 1
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1045
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Goomba Walking 2
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1045
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Goomba Squished
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1045
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Goomba Winged Walking 1
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1045
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Goomba Winged Walking 2
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1045
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Goomba Winged Flying 1
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1045
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Goomba Winged Flying 2
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1045
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mini Goomba 1
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1045
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mini Goomba 2
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1045
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Red Winged Goomba
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1045
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Block Monster 1
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1045
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Block Monster 2
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1045
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Block Monster 3
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1045
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Block Monster 14
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1045
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big Goomba Walking 1
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1044
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big Goomba Walking 2
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1044
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big Goomba Squished
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1044
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boot Monster 1
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1011
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boot Monster 2
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1011
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boot Monster 3
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1011
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boot Monster 4
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1011
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boot Monster 5
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1011
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boot Monster 6
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1011
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big Red Perahna Plant Up Open
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 939
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Big Red Perahna Plant Up Closed
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 939
+        width: 56
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black Ball
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1005
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Red Perahna Plant 1
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 939
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Red Perahna Plant 2
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 939
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Perahna Plant
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 938
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Red Perahna Plant Up Open
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 939
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Red Perahna Plant Up Closed
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 939
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green Perahna Plant Up Open
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 939
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Red Perahna Plant Up Open 1
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 938
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Red Perahna Plant Up Open 2
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 938
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Small Red Perahna Plant Up Closed 1
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 938
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_35
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 938
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Koopa Walking 1 Red
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 893
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Koopa Walking 2 Red
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 894
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Koopa Shell Red
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 895
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Koopa Shell Getting Up Red
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 895
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Koopa Shell Green Winged 1
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 893
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Koopa Shell Green Winged 2
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 894
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Koopa Shell Green Flying 1
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 893
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Koopa Shell Green Flying 2
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 894
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Koopa Walking 1 Red Big
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 893
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Koopa Walking 2 Red Big
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 893
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Koopa Shell Red Big
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 893
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Koopa Shell Green Flying Big
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 893
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boomerang Koopa 1 withB Green
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 838
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boomerang Koopa 2 withB Green
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 838
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boomerang Koopa 1 withOutB Green
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 838
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boomerang Koopa 2 withOutB Green
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 838
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hammer Koopa 1 Small
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 838
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hammer Koopa 2 Small
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 838
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hammer Koopa 1 Small Red Without
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 838
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hammer Koopa 1 Without
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 838
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hammer Koopa 2 Without
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 838
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hammer Koopa With
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 838
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boomerang 1
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 811
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boomerang 2
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 813
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boomerang 3
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 812
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Boomerang 4
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 813
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hammer 1
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 812
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hammer 2
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 812
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hammer 3
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 815
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hammer 4
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 815
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hammer 5
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 815
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hammer 6
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 815
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hammer 7
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 816
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_69
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 777
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_70
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 777
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_71
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 776
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_72
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 739
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_73
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 739
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_74
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 739
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_75
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 740
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_76
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 694
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_77
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 712
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_78
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 716
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_79
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 714
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_80
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 694
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_81
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 694
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_82
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 694
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_83
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 694
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_84
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 694
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_85
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 694
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_86
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 694
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_87
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 621
+        width: 17
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_88
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 621
+        width: 18
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_89
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 669
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_90
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 669
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_91
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 669
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_92
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 668
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_93
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 669
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_94
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 622
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_95
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 621
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_96
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 621
+        width: 18
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_97
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 644
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_98
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 621
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_99
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 621
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_100
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 621
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_101
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 621
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_102
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 621
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_103
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 622
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_104
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 621
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_105
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 595
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_106
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 595
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_107
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 595
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_108
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 595
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_109
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 595
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_110
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 551
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_111
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 524
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_112
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 524
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_113
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 486
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_114
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 483
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_115
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 453
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_116
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 448
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_117
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 454
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_118
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 448
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_119
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 445
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_120
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 441
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_121
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 437
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_122
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 445
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_123
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 441
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_124
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 437
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_125
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 418
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_126
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 418
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_127
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 388
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_128
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 388
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_129
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 389
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_130
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 389
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_131
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 388
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_132
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 372
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_133
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 372
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_134
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 373
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_135
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 372
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_136
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 344
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_137
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 344
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_138
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 344
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_139
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 344
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_140
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 296
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_141
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 295
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_142
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 296
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_143
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 259
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_144
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 259
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_145
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 250
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_146
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 250
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_147
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 251
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_148
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 251
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_149
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 209
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_150
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 209
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_151
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 209
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_152
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 222
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_153
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 222
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_154
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 222
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_155
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 184
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_156
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 184
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_157
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 184
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_158
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 184
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_159
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 184
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_160
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 184
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_161
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 157
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_162
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 157
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_163
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 158
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_164
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 159
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_165
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 159
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_166
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 131
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_167
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 131
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_168
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 131
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_169
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 131
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_170
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 131
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_171
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 131
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_172
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 105
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_173
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 105
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_174
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 105
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_175
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 79
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_176
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 79
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_177
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 79
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_178
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 79
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_179
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 79
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_180
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 79
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_181
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 79
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_182
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 54
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_183
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 53
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_184
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 54
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_185
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 32
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_186
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 32
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_187
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 6
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_188
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 6
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_189
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 6
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_0
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 941
+        width: 29
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Enemy NES Photoshop_1
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 804
+        width: 7
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
